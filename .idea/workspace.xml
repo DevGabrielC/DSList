@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddd99fd2-6e5a-48bc-bc02-db8f491b3a30" name="Changes" comment="Teste">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/projections/GameMinProjection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/controllers/GameListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/controllers/GameListController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/dto/GameMinDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/dto/GameMinDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/repositories/GameRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/repositories/GameRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/services/GameService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/services/GameService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
