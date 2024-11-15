@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddd99fd2-6e5a-48bc-bc02-db8f491b3a30" name="Changes" comment="Teste">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/import.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/controllers/GameListController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/dto/GameDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/dto/GameListDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/repositories/GameListRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/services/GameListService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/controllers/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/controllers/GameController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/dto/GameMinDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/dto/GameMinDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/services/GameService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/services/GameService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gabrielcdev/dslist/controllers/GameController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gabrielcdev/dslist/controllers/GameController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gabrielcdev/dslist/dto/GameMinDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gabrielcdev/dslist/dto/GameMinDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gabrielcdev/dslist/services/GameService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gabrielcdev/dslist/services/GameService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -70,6 +82,11 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\gabri\Documents\Projetos\ws-java\dslist\dslist\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gabrielcdev.dslist.controllers" />
+      <recent name="com.gabrielcdev.dslist.services" />
+      <recent name="com.gabrielcdev.dslist.repositories" />
     </key>
   </component>
   <component name="RunManager">
