@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddd99fd2-6e5a-48bc-bc02-db8f491b3a30" name="Changes" comment="Teste">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/config/WebConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/dto/GameMinDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/dto/GameMinDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/projections/GameMinProjection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/projections/GameMinProjection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/repositories/GameRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gabrielcdev/dslist/repositories/GameRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application-dev.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gabrielcdev/dslist/dto/GameMinDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gabrielcdev/dslist/dto/GameMinDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gabrielcdev/dslist/projections/GameMinProjection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gabrielcdev/dslist/projections/GameMinProjection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gabrielcdev/dslist/repositories/GameRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gabrielcdev/dslist/repositories/GameRepository.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>

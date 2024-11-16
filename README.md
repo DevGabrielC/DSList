@@ -19,3 +19,9 @@
 - Classe de associação, embedded id
 - Consultas SQL no Spring Data JPA
 - Projections
+
+## Terceira aula
+
+- Dicas de currículo e portfólio
+- Perfis de projeto
+- Ambiente local com Docker Compose
