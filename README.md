@@ -25,3 +25,10 @@
 - Dicas de currículo e portfólio
 - Perfis de projeto
 - Ambiente local com Docker Compose
+
+## Quarta aula
+
+- Design e implementação de endpoint especial
+- Operação de atualização no Spring
+- Operações com List
+- Verbo HTTP e idempotência
