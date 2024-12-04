@@ -1,5 +1,8 @@
 # Intensivão Java Nélio Alves
 
+## Linguagens e Tecnologias
+Java, Spring Boot, JPA, Hibernate, H2, PostgreSQL, Docker e Postman.
+
 ## Primeira aula
 
 - Conceitos
